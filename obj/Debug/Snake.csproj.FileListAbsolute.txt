@@ -1,0 +1,13 @@
+C:\Data\study\C#\Snake\bin\Debug\Snake.exe.config
+C:\Data\study\C#\Snake\bin\Debug\Snake.exe
+C:\Data\study\C#\Snake\bin\Debug\Snake.pdb
+C:\Data\study\C#\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Data\study\C#\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Data\study\C#\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Data\study\C#\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Data\study\C#\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Data\study\C#\Snake\obj\Debug\Snake.exe
+C:\Data\study\C#\Snake\obj\Debug\Snake.pdb
+C:\Data\study\C#\Snake\bin\Debug\nunit.framework.dll
+C:\Data\study\C#\Snake\bin\Debug\nunit.framework.xml
+C:\Data\study\C#\Snake\obj\Debug\Snake.csproj.CopyComplete
