@@ -83,7 +83,7 @@ namespace Snake
             StateChanged();
         }
 
-        public void EatApple()
+        private void EatApple()
         {
             A = new Apple(S.Body);
             Score++;
