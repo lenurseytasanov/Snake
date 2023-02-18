@@ -143,7 +143,7 @@ namespace Snake
                 Record = int.Parse(reader.ReadLine());
                 reader.Close();
             }
-            catch (ArgumentNullException)
+            catch
             {
                 Record = 0;
             }
@@ -258,7 +258,8 @@ namespace Snake
                     Model.PauseGame();
                     break;
                 case Keys.R:
-                    Model.StartGame();
+                    Model.GameOver();
+                    Invalidate();
                     break;
             }
         }
